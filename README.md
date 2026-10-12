@@ -44,7 +44,7 @@ HOW TO?
 
 1. download the binfile and flash the esp32s2
 
-link: https://www.mediafire.com/file/cmj4j6gvazg07mk/PS5JBPinasESP32S2RELAPSE_10_12_2026.zip/file
+- https://www.mediafire.com/file/cmj4j6gvazg07mk/PS5JBPinasESP32S2RELAPSE_10_12_2026.zip/file
 
 2. connect to esp32s2 via wifi
 ssid: PS5JBPINAS
@@ -53,7 +53,8 @@ password: 12345678
 3. open users guide, run the jailbreak
 
 4. install the media tab shortcut icon for espwebhost quick navigation
-link: https://www.mediafire.com/file/68nbw47prcywehm/PS5JBPinasESPRELAPSEMediatTabShortcut.pkg/file
+   
+- https://www.mediafire.com/file/68nbw47prcywehm/PS5JBPinasESPRELAPSEMediatTabShortcut.pkg/file
 
 ---------------------------
 
