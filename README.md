@@ -6,7 +6,7 @@ ESP32S2 Chip Webhost base on Karo's version of Relapse for FW7.00 to FW13.60 wit
 What if offers?
 --------------------
 
-- Pure offline webhost solution for RELAPSE Jailbreak
+- OFFLINE webhost solution for RELAPSE Jailbreak
 - MEDIA TAB "shortcut icon" for quick navigation of the page
 - COMES WITH 4 PAYLOADS ONLY (3MB limited space of the chip)
   - kstuff1.13drtest5.elf (so you can install apps you needed initially)
